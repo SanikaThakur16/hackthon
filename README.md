@@ -1,2 +1,2 @@
 # hackthon
-this is for hackthon
+this is for hackthon.
